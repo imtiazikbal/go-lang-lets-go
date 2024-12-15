@@ -4,9 +4,6 @@ A brief description of what your project does and its purpose.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Prerequisites
 
@@ -19,4 +16,4 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/imtiazikbal/go-lang-lets-go
